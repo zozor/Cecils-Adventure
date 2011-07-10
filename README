@@ -2,4 +2,7 @@ To build type gomake.
 
 Requires the go-SDL library (The one in my repository, for now)
 
+Works with: 8g version release.r58 8732
+
 All images (except those obviously made in paint on the fly) and sounds are not owned by me.
+
