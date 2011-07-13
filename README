@@ -1,6 +1,6 @@
 To build type gomake.
 
-Requires the go-SDL library (The one in my repository, for now)
+Requires the go-SDL library
 
 Works with: 8g version release.r58 8732
 
